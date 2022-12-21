@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 --->
 
-[![Shrimp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrimp-pixel)](https://github-readme-stats.vercel.app/api?username=Shrimp-pixel)
+[![Shrimp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrimp-pixe&border_color=000000l)](https://github-readme-stats.vercel.app/api?username=Shrimp-pixel)
 
 ## QAGuru Final Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shrimp-pixel&repo=codewars-UI&border_color=000000)](https://github.com/Shrimp-pixel/codewars-UI)
