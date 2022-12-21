@@ -27,18 +27,18 @@ You can click the Preview link to take a look at your changes.
 ## Stack and tools
 
 <p  align="center">
-  <code><img width="5%" title="Python" src="D:\QApython\shrimp-pixel\icons\python.png"></code>
-  <code><img width="5%" title="Pycharm" src="D:\QApython\shrimp-pixel\icons\pycharm.png"></code>  
-  <code><img width="5%" title="Pytest" src="D:\QApython\shrimp-pixel\icons\pytest.png"></code>
-  <code><img width="5%" title="Allure Report" src="D:\QApython\shrimp-pixel\icons\allure.png"></code>
-  <code><img width="5%" title="Allure TestOps" src="D:\QApython\shrimp-pixel\icons\allure_testops.png"></code>
-  <code><img width="5%" title="Jenkins" src="D:\QApython\shrimp-pixel\icons\jenkins.png"></code>
-  <code><img width="5%" title="Selene" src="D:\QApython\shrimp-pixel\icons\selene.png"></code>
-  <code><img width="5%" title="Selenium" src="D:\QApython\shrimp-pixel\icons\selenium.png"></code>
-  <code><img width="5%" title="Selenoid" src="D:\QApython\shrimp-pixel\icons\selenoid.png"></code>
-  <code><img width="5%" title="Requests" src="D:\QApython\shrimp-pixel\icons\requests.png"></code>
-  <code><img width="5%" title="Appium" src="D:\QApython\shrimp-pixel\icons\appium.png"></code>
-  <code><img width="5%" title="Browserstack" src="D:\QApython\shrimp-pixel\icons\browserstack.png"></code>
-  <code><img width="5%" title="Jira" src="D:\QApython\shrimp-pixel\icons\jira.png"></code>
-  <code><img width="5%" title="Telegram" src="D:\QApython\shrimp-pixel\icons\telegram.png"></code>
+<img width="5%" title="Python" src="/icon/python.png">
+<img width="5%" title="Pycharm" src="/icon/pycharm.png"> 
+<img width="5%" title="Pytest" src="/icon/pytest.png">
+<img width="5%" title="Allure Report" src="/icon/allure.png">
+<img width="5%" title="Allure TestOps" src="/icon/allure_testops.png">
+<img width="5%" title="Jenkins" src="/icon/jenkins.png">
+<img width="5%" title="Selene" src="/icon/selene.png">
+<img width="5%" title="Selenium" src="/icon/selenium.png">
+<img width="5%" title="Selenoid" src="/icon/selenoid.png">
+<img width="5%" title="Requests" src="/icon/requests.png">
+<img width="5%" title="Appium" src="/icon/appium.png">
+<img width="5%" title="Browserstack" src="/icon/browserstack.png">
+<img width="5%" title="Jira" src="/icon/jira.png">
+<img width="5%" title="Telegram" src="/icon/telegram.png">
 </p>
