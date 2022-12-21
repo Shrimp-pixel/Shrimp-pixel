@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrimp-pixel)](https://github-readme-stats.vercel.app/api?username=Shrimp-pixel)
+[![Shrimp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrimp-pixel)](https://github-readme-stats.vercel.app/api?username=Shrimp-pixel)
 
 ## QAGuru Final Projects
 
