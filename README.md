@@ -16,7 +16,9 @@ You can click the Preview link to take a look at your changes.
 [![Shrimp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrimp-pixel)](https://github-readme-stats.vercel.app/api?username=Shrimp-pixel)
 
 ## QAGuru Final Projects
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shrimp-pixel&repo=codewars-UI)](https://github.com/Shrimp-pixel/codewars-UI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shrimp-pixel&repo=mobileFinal)](https://github.com/Shrimp-pixel/mobileFinal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shrimp-pixel&repo=APIFinal_test)](https://github.com/Shrimp-pixel/APIFinal_test)
 
 <br>
 <br>
